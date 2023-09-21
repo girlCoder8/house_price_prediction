@@ -1,4 +1,4 @@
-# Predicting House Prices Machine Learning
+# Predicting House Prices using Machine Learning Libraries
 
 This is a simple machine learning project to predict house prices. The data for this project was retrieved from [kaggle.com](https://www.kaggle.com/datasets/shibumohapatra/house-price). 
 
